@@ -27,3 +27,4 @@ chmod +x rec_extractor.sh
 
 
 <hr>
+<br>Note :- This script can be used with single number or with multiple numbers. Setup process will remain same as it.<br>
